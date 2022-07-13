@@ -22,3 +22,10 @@ Currently there are 3 types of products: SIMPLE, DOWNLOADABLE, VARIANT. Each of 
 This part should be done after you've successfully completed the first challenge.
 
 The store now wants to support a new product, called `VIRTUAL`. Try adding this new type in the "old" implementation and also in your "clean" one. What conclusions can you draw from that?
+
+
+### References
+- GoF Design Patterns
+- Head first design patterns
+- https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
+- https://refactoring.guru/
